@@ -20,7 +20,7 @@ Interop function calls for the api.
 ### Covered Functions ###
 
 Note: The wrapper does not cover all the functions of the api but can be added easily.
-The communication between the wrapper and the XC_Comm.dll is implemented over a callback. Communicating to the PLC is a asynchronous process where the single operation take some time. 
+The communication between the wrapper and the XC_Comm.dll is implemented over a callback. Communicating to the PLC is a asynchronous process where the single operation takes some time. 
 
 The definition of the callback:
 
