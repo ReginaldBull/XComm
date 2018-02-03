@@ -8,9 +8,9 @@ This repository contains a wrapper, that encapsulates the XC_Comm.dll, from the 
 
 ### Requirements ###
 
-* SetupGatewayV2.3.9.36 - Not included into this repository (needed to get additional libraries for the communication)
+* SetupGatewayV2.3.9.36 - Not included in this repository (needed to get additional libraries for the communication)
 
-* XC_Comm.dll - Not included into this repository
+* XC_Comm.dll - Not included in this repository
 
 ### Contents ###
 
